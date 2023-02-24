@@ -1,0 +1,57 @@
+body{
+    background-image: url(love.jpg) ;
+    background-repeat:no-repeat;
+    background-attachment: fixed;
+    background-position: top;
+    background-size: cover ;
+}
+div.zero{
+    margin: 200px;
+}
+div.one{
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    font-weight: bold;
+
+}
+div.two{
+    color:white;
+    font-size: 60px;
+    text-align: center;
+    font-weight: bold;
+    margin:-50px -50px;
+
+
+}
+div.three{
+    color:white;
+    font-size: 20px;
+    text-align: center;
+    font-weight: bold;
+   
+
+}
+div.four{
+    font-size:20px;
+    color: white;
+    text-align: center;
+    margin-left: 520px;
+    border-width: 3px;
+    border-color: white;
+    border-style: solid;
+    display: inline-block;;
+    padding: 0px 25px;
+ }
+ div.five{
+    font-size:20px;
+    color:black;
+    text-align: center;
+    margin-left: -400px;
+    border-width: 3px;
+    border-color: white;
+    border-style: solid;
+    display: inline-block;
+    padding: 0px 20px;
+    background-color: white;
+ }
